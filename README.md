@@ -20,33 +20,8 @@ Coded by <a href="https://instagram.com/iqbalmh18">Iqbalmh18</a>
 Full tutorial <a href="https://youtu.be/GVKf7bzbN_8">click here</a>
 </p>
 <p align="center">
-  <a><br> ASCII </br></a>
-  <img src="img/2.png" width="640" title="asciilogo" alt="asciilogo">
-</p>
-
-<p align="center">
-  <a><br> FONT STYLE</br></a>
-  <img src="img/3.png" width="640" title="fonts" alt="fonts">
-</p>
-
-<p align="center">
-  <a><br> BACKGROUND COLOR </br></a>
-  <img src="img/4.png" width="640" title="bgcolor" alt="bgcolor">
-</p>
-
-<p align="center">
-  <a><br> PROMPT STYLE </br></a>
-  <img src="img/5.png" width="640" title="prompt" alt="prompt">
-</p>
-
-<p align="center">
-  <a><br> ZSH THEME </br></a>
-  <img src="img/6.png" width="640" title="zshtheme" alt="zshtheme">
-</p>
-
-<p align="center">
-  <a><br> MAIN MENU </br></a>
-  <img src="img/0.png" width="640" title="menu" alt="menu">
+  <a><br> Termux Theme version 1.2 </br></a>
+  <img src="img/0.png" width="640" title="theme" alt="asciilogo">
 </p>
 
 ## Features
