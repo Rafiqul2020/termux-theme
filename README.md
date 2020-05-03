@@ -12,14 +12,8 @@ Tool for customize your terminal color and font with ZSH
 <a href="https://youtube.com/saydog-official"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-SAYDOG-orange"/></a>
 <a href="https://instagram.com/saydog.official"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Saydog.official-orange"/></a>
 </p>
-
 <p align="center">
 Coded by <a href="https://instagram.com/iqbalmh18">Iqbalmh18</a>
-</p>
-<p align="center">
-Full tutorial <a href="https://youtu.be/GVKf7bzbN_8">click here</a>
-</p>
-<p align="center">
   <a><br> Termux Theme version 1.2 </br></a>
   <img src="img/0.png" width="640" title="theme" alt="theme">
 </p>
