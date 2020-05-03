@@ -2,7 +2,7 @@
 TERMUX THEME
 </H1>
 <H4 align="center">
-Tool for customize your terminal color and font with ZSH
+Tool for customize your terminal with ZSH
 </H4>
 <p align="center">
 <a href="https://github.com/saydog"><img alt="Version" src="https://img.shields.io/badge/Version-1.2-brightgreen"/></a>
