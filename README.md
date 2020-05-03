@@ -21,7 +21,7 @@ Full tutorial <a href="https://youtu.be/GVKf7bzbN_8">click here</a>
 </p>
 <p align="center">
   <a><br> Termux Theme version 1.2 </br></a>
-  <img src="img/0.png" width="640" title="theme" alt="asciilogo">
+  <img src="img/0.png" width="640" title="theme" alt="theme">
 </p>
 
 ## Features
